@@ -1,5 +1,9 @@
 # Diceware — Gerador de senhas (pt-br)
 
+![Java](https://img.shields.io/badge/Java-11%2B-orange)
+![Licença](https://img.shields.io/badge/Licen%C3%A7a-MIT-blue)
+![Método](https://img.shields.io/badge/M%C3%A9todo-Diceware-green)
+
 Gerador de *passphrases* (frases-senha) pelo método **Diceware**, em português.
 Em vez de uma senha difícil de lembrar como `P@ssw0rd!2024`, ele monta algo como
 `cavalo-janela-verde-limao-telha-barco`: fácil de decorar, difícil de quebrar.
